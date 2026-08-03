@@ -1,0 +1,19 @@
+# SKN AI LLM 수업 공통 환경
+# 권장 Python 버전: 3.12
+# 설치 명령: python -m pip install -r requirements.txt
+
+# Jupyter 및 PyCharm 노트북 실행
+jupyterlab
+ipykernel
+ipywidgets
+
+# 데이터 처리 및 시각화
+numpy
+pandas
+matplotlib
+scikit-learn
+Pillow
+
+# HTTP 요청 및 진행률 표시
+requests
+tqdm
