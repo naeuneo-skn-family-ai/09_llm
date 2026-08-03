@@ -1,0 +1,36 @@
+# 파이썬 가상 환경 폴더
+.venv/
+
+# 파이썬 캐시 폴더(임시 폴더)
+__pycache__/
+
+# 주피터 노트북 자동 저장 폴더
+.ipynb_checkpoints/
+
+# Mac os Finder 폴더 보기 설정이 저장된 파일
+.DS_Store
+
+# .py 파일 실행 시 생성되는 컴파일 캐시 파일
+*.pyc
+
+# 파이참 설정
+.idea
+
+# dotenv 무시 설정
+.env
+
+
+#models/
+catboost_info/
+
+cifar*
+cifar*.*
+/02_cnn/data/checkpoints/resnet18-f37072fd.pth
+/02_cnn/models/resnet18_svhn_state_dict.joblib
+/02_cnn/data/train_32x32.mat
+/02_cnn/data/test_32x32.mat
+
+
+runs/
+my_detection/
+helmet_dataset/
