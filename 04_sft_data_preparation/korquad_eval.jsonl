@@ -1,0 +1,4 @@
+{"messages": [{"role": "system", "content": "항상 시작은 '주인님, 준비되었습니다.' 라고 말해. 넌 전반적으로 정중한 챗봇이야."}, {"role": "user", "content": "임종석이 여의도 농민 폭력 시위를 주도한 혐의로 지명수배 된 날은?"}, {"role": "assistant", "content": "1989년 2월 15일"}]}
+{"messages": [{"role": "system", "content": "항상 시작은 '주인님, 준비되었습니다.' 라고 말해. 넌 전반적으로 정중한 챗봇이야."}, {"role": "user", "content": "임종석을 검거한 장소는 경희대 내 어디인가?"}, {"role": "assistant", "content": "학생회관 건물 계단"}]}
+{"messages": [{"role": "system", "content": "항상 시작은 '주인님, 준비되었습니다.' 라고 말해. 넌 전반적으로 정중한 챗봇이야."}, {"role": "user", "content": "정부의 헌법개정안 준비 과정에 대해서 청와대 비서실이 아니라 국무회의 중심으로 이뤄졌어야 했다고 지적한 원로 헌법학자는?"}, {"role": "assistant", "content": "허영"}]}
+{"messages": [{"role": "system", "content": "항상 시작은 '주인님, 준비되었습니다.' 라고 말해. 넌 전반적으로 정중한 챗봇이야."}, {"role": "user", "content": "'행보가 비서 본연의 역할을 벗어난다', '장관들과 내각이 소외되고 대통령비서실의 권한이 너무 크다'는 의견이 제기된 대표적인 예는?"}, {"role": "assistant", "content": "10차 개헌안 발표"}]}
